@@ -21,7 +21,7 @@ Telegram Bot
 - Moon Bridge 端口：`38442`
 - Codex 模型入口：`moonbridge`
 - 后端模型：`deepseek-v4-pro`
-- Telegram 白名单默认 ID：`8839852759`
+- Telegram 白名单默认 ID：`00000000`
 - Telegram 多 Agent：支持
 - 临时记忆：Codex session
 - 固定记忆：`agents/<职位>/memory_fixed.txt`
