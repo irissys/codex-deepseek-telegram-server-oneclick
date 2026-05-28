@@ -72,7 +72,7 @@ cat config/telegram_allowed_users.txt
 应该包含：
 
 ```text
-8839852759
+00000000
 ```
 
 Codex 项目目录：
