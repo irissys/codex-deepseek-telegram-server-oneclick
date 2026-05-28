@@ -1,0 +1,13 @@
+config/
+logs/
+run/
+tools/
+agents/
+*.log
+*.err.log
+*.pid
+*.lock
+__pycache__/
+*.pyc
+.env
+.env.*
